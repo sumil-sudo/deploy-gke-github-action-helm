@@ -1,0 +1,6 @@
+apiVersion: v2
+name: gke-sample-app
+description: A sample Helm chart for deploying an NGINX app on GKE
+type: application
+version: 0.1.0
+appVersion: "1.25.0"
